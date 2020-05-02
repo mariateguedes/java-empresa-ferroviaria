@@ -1,2 +1,2 @@
-# java-empresa-ferroviaria
- Projeto console Java. 
+# Java: Projeto Console Empresa Ferroviária
+Solução desenvolvida em Java console utilizando conceitos de Programação Orientada a Objetos, como Classes, Objetos, Herença, Relacionamento e Listas. O objetivo era desenvolver um projeto para uma empresa ferroviária que estava com alguns problemas operacionais ligados ao transporte de carga. A solução envolve linhas e estações ferroviárias, trens, locomotivas e vagões. 
